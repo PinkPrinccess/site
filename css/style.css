@@ -1,0 +1,96 @@
+.container  {
+  width: 800px;
+  height: 100px;
+  margin: 0 auto;
+  align-items: center;
+}
+
+.frst {
+  width: 150px;
+  height: 150px;
+  border-radius: 20px;
+  background-color: grey;
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 25px;
+  
+}
+
+.text__one {
+  text-align: center;
+  line-height: 3;
+}
+
+.scnd {
+  width: 350px;
+  height: 150px;
+  border-radius: 20px;
+  background-color: grey;
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 25px;
+
+}
+
+.txt__line__one {
+  width: 200px;
+  height: 10px;
+  background-color: green;
+  
+}
+
+.txt__line__two {
+  width: 200px;
+  height: 10px;
+  background-color: green;
+}
+
+.rusis {
+  width: 300px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  line-height: 3;
+  margin: 0 auto;
+
+}
+
+
+.skills {
+  width: 450px;
+  height: 150px;
+  background-color: grey;
+  border-radius: 10px;
+  display: inline-block;
+  vertical-align: top;
+
+
+}
+
+.tools {
+  width: 250px;
+  height: 150px;
+  background-color: grey;
+  border-radius: 10px;
+  display: inline-block;
+  vertical-align: top;
+  margin: 0 40px;
+  
+
+}
+
+.icon__one {
+  width: 75px;
+  height: 75px;
+  background-color: white;
+  margin-left: 80px;
+  margin-top: 30px;
+  border-radius: 10px;
+}
+
+.down {
+  margin-top: 50px;
+  width: 744px;
+  height: 50px;
+  background-color: grey;
+}
